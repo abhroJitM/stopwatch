@@ -1,0 +1,12 @@
+cache
+.cache
+package.json
+pnpm-lock.yaml
+public
+dist
+node_modules
+.next
+build
+.vscode
+.eslintrc.json
+.gitignore
